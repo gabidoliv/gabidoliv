@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 ##
     
     
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabidoliv&layout=&langs_count=16&theme=gruvbox"/>
-</div>
+<!--<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabidoliv&layout=&langs_count=top&theme=gruvbox"/>
+</div> -->
