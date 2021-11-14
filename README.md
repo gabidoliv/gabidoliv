@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning computer programming - covering version control with Git, code efficiency, refactoring code, test planning and execution
 - 👯 I’m looking to collaborate on Open Source, Python projects, and Data Science
-- 🤔 I’m looking for help with Quality in development (Quality assurance)
+- 🤔 I’m looking for help with Quality in development/Quality assurance
 - 💬 Ask me about entry level subjects and we can figure it out together, how 'bout that?! 😊
 
 
