@@ -1,14 +1,13 @@
 ### Hey! I'm Gabriela de Oliveira
 
 - 🌱 I’m currently learning computer programming - covering version control with Git, code efficiency, refactoring code, test planning and execution
-- 👯 I’m looking to collaborate on Open Source, Python projects, and Data Science
 - 🤔 I’m looking for help with Quality in development/Quality assurance
 - 😄 Pronouns: She/Her
 <!--
 **gabidoliv/gabidoliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 👯 I’m looking to collaborate on Open Source, Python projects, and Data Science
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
