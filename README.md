@@ -1,7 +1,6 @@
 ### Hey! I'm Gabriela de Oliveira
 
 - 🌱 I’m currently learning computer programming - covering version control with Git, code efficiency, refactoring code, test planning and execution
-- 👯 I’m looking to collaborate on Open Source, Python projects, and Data Science
 - 🤔 I’m looking for help with Quality in development/Quality assurance
 - 😄 Pronouns: She/Her
 <!--
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
+- 👯 I’m looking to collaborate on Open Source, Python projects, and Data Science
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
