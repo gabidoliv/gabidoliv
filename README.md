@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 <div>
     <a href="https://github.com/gabidoliv">
-    <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=gabidoliv&count_private=true?include_all_commits=true&show_icons=true&theme=gruvbox](https://github-readme-stats.vercel.app/api/top-langs/?username=gabidoliv&layout=&langs_count=top&theme=gruvbox)"/> 
+        
+##
+</div>         
 </div>
     <div style="display: inline_block"><br>
   <img align="center" alt="VSCode" height ="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
